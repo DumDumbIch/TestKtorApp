@@ -1,0 +1,9 @@
+.gradle
+.idea/
+build
+.kotlin/
+*.iml
+local.properties
+*.apk
+*.aab
+output-metadata.json
